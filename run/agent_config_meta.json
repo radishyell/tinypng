@@ -1,0 +1,294 @@
+{
+  "keys": "/Users/n-321/Desktop/tinypng/config/config.default.js",
+  "middleware": "/Users/n-321/Desktop/tinypng/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/n-321/Desktop/tinypng/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/n-321/Desktop/tinypng/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/n-321/Desktop/tinypng/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/n-321/Desktop/tinypng/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/n-321/Desktop/tinypng/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/n-321/Desktop/tinypng/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/n-321/Desktop/tinypng/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/n-321/Desktop/tinypng/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/n-321/Desktop/tinypng/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/n-321/Desktop/tinypng/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/n-321/Desktop/tinypng/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/n-321/Desktop/tinypng/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/n-321/Desktop/tinypng/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/n-321/Desktop/tinypng/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/n-321/Desktop/tinypng/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/n-321/Desktop/tinypng/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/n-321/Desktop/tinypng/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/n-321/Desktop/tinypng/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/n-321/Desktop/tinypng/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/n-321/Desktop/tinypng/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/n-321/Desktop/tinypng/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/n-321/Desktop/tinypng/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/n-321/Desktop/tinypng/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/n-321/Desktop/tinypng/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/n-321/Desktop/tinypng/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/n-321/Desktop/tinypng/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/n-321/Desktop/tinypng/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/n-321/Desktop/tinypng/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/n-321/Desktop/tinypng/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/n-321/Desktop/tinypng/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/n-321/Desktop/tinypng/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/n-321/Desktop/tinypng/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/n-321/Desktop/tinypng/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/n-321/Desktop/tinypng/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/n-321/Desktop/tinypng/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/n-321/Desktop/tinypng/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/n-321/Desktop/tinypng/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/n-321/Desktop/tinypng/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/n-321/Desktop/tinypng/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/n-321/Desktop/tinypng/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "name": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "version": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "description": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "private": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "tinify": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "stop": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "dev": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "debug": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "test": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "cov": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "lint": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "ci": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "autod": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "url": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "license": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "strict": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "depth": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "env": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "level": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "logging": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "port": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/n-321/Desktop/tinypng/node_modules/egg/config/config.default.js"
+}

@@ -1,0 +1,114 @@
+2020-08-13 18:30:13,552 INFO 74984 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 35986452ms at 2020-08-14 04:30:00.004
+2020-08-13 18:30:13,552 INFO 74984 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 19786448ms at 2020-08-14 00:00:00.000
+2020-08-13 18:30:13,552 INFO 74984 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 19787448ms at 2020-08-14 00:00:01.000
+2020-08-13 18:30:13,487 INFO 74985 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-13 18:30:13,487 INFO 74985 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-13 18:30:13,487 INFO 74985 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 10:43:16,539 INFO 99785 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 64003464ms at 2020-08-15 04:30:00.003
+2020-08-14 10:43:16,540 INFO 99785 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 47803460ms at 2020-08-15 00:00:00.000
+2020-08-14 10:43:16,540 INFO 99785 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47804460ms at 2020-08-15 00:00:01.000
+2020-08-14 10:43:16,463 INFO 99786 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 10:43:16,463 INFO 99786 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 10:43:16,463 INFO 99786 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:27:54,175 INFO 27441 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:27:54,175 INFO 27441 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:27:54,175 INFO 27441 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:31:59,756 INFO 30033 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:31:59,756 INFO 30033 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:31:59,756 INFO 30033 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:32:26,984 INFO 30251 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 61053019ms at 2020-08-15 04:30:00.003
+2020-08-14 11:32:26,984 INFO 30251 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44853016ms at 2020-08-15 00:00:00.000
+2020-08-14 11:32:26,985 INFO 30251 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44854016ms at 2020-08-15 00:00:01.001
+2020-08-14 11:32:26,925 INFO 30253 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:32:26,925 INFO 30253 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:32:26,925 INFO 30253 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:33:31,534 INFO 30981 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:33:31,534 INFO 30981 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:33:31,535 INFO 30981 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:33:44,765 INFO 31195 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:33:44,765 INFO 31195 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:33:44,765 INFO 31195 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:36:38,363 INFO 32922 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:36:38,363 INFO 32922 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:36:38,363 INFO 32922 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:38:28,611 INFO 33987 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:38:28,611 INFO 33987 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:38:28,611 INFO 33987 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:38:54,886 INFO 34312 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:38:54,886 INFO 34312 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:38:54,886 INFO 34312 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:39:14,852 INFO 34443 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:39:14,852 INFO 34443 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:39:14,852 INFO 34443 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:39:34,165 INFO 34676 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:39:34,165 INFO 34676 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:39:34,165 INFO 34676 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:40:19,791 INFO 35112 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:40:19,791 INFO 35112 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:40:19,791 INFO 35112 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:41:34,362 INFO 36000 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:41:34,362 INFO 36000 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:41:34,362 INFO 36000 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:44:09,142 INFO 37542 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:44:09,142 INFO 37542 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:44:09,142 INFO 37542 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:44:29,601 INFO 37761 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:44:29,601 INFO 37761 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:44:29,601 INFO 37761 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:47:26,752 INFO 39611 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:47:26,752 INFO 39611 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:47:26,752 INFO 39611 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:48:10,765 INFO 40057 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:48:10,765 INFO 40057 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:48:10,765 INFO 40057 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:52:52,721 INFO 42827 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:52:52,721 INFO 42827 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:52:52,721 INFO 42827 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:52:55,228 INFO 42936 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:52:55,228 INFO 42936 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:52:55,228 INFO 42936 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:53:49,414 INFO 43478 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:53:49,414 INFO 43478 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:53:49,414 INFO 43478 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 11:59:09,041 INFO 46717 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 11:59:09,041 INFO 46717 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 11:59:09,041 INFO 46717 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:11:20,580 INFO 54123 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 58719423ms at 2020-08-15 04:30:00.003
+2020-08-14 12:11:20,580 INFO 54123 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 42519420ms at 2020-08-15 00:00:00.000
+2020-08-14 12:11:20,581 INFO 54123 [Timer] /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42520420ms at 2020-08-15 00:00:01.000
+2020-08-14 12:11:20,514 INFO 54124 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:11:20,514 INFO 54124 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:11:20,514 INFO 54124 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:11:21,622 INFO 54125 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:11:21,623 INFO 54125 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:11:21,623 INFO 54125 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:12:12,865 INFO 54660 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:12:12,865 INFO 54660 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:12:12,865 INFO 54660 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:13:01,255 INFO 55090 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:13:01,255 INFO 55090 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:13:01,255 INFO 55090 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:13:06,353 INFO 55204 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:13:06,353 INFO 55204 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:13:06,353 INFO 55204 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:13:33,298 INFO 55474 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:13:33,298 INFO 55474 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:13:33,298 INFO 55474 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:15:30,392 INFO 56748 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:15:30,392 INFO 56748 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:15:30,392 INFO 56748 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:17:16,049 INFO 57840 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:17:16,049 INFO 57840 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:17:16,049 INFO 57840 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:17:33,433 INFO 57959 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:17:33,433 INFO 57959 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:17:33,433 INFO 57959 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:23:50,164 INFO 61716 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:23:50,164 INFO 61716 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:23:50,164 INFO 61716 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:24:20,684 INFO 62040 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:24:20,684 INFO 62040 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:24:20,684 INFO 62040 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-08-14 12:25:13,843 INFO 62583 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-08-14 12:25:13,843 INFO 62583 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-08-14 12:25:13,843 INFO 62583 [egg-schedule]: register schedule /Users/n-321/Desktop/tinypng/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

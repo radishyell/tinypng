@@ -1,0 +1,153 @@
+2020-08-14 11:32:31,196 ERROR 30253 [-/127.0.0.1/-/8ms GET /] nodejs.ENOENTError: ENOENT: no such file or directory, scandir '/image/'
+    at Object.readdirSync (fs.js:790:3)
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:20:22)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+errno: -2
+syscall: "scandir"
+code: "ENOENT"
+path: "/image/"
+name: "ENOENTError"
+pid: 30253
+hostname: N-321deMacBook-Pro.local
+
+2020-08-14 11:33:37,716 ERROR 30981 [-/127.0.0.1/-/7ms GET /] nodejs.ENOENTError: ENOENT: no such file or directory, scandir '../../image'
+    at Object.readdirSync (fs.js:790:3)
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:20:22)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+errno: -2
+syscall: "scandir"
+code: "ENOENT"
+path: "../../image"
+name: "ENOENTError"
+pid: 30981
+hostname: N-321deMacBook-Pro.local
+
+2020-08-14 12:01:45,943 ERROR 46717 nodejs.unhandledRejectionError: Error while connecting: Tunnel creation failed. Socket error: Error: connect ETIMEDOUT 192.168.0.1:8080
+    at new ConnectionError (/Users/n-321/Desktop/tinypng/node_modules/tinify/lib/tinify/Error.js:50:1)
+    at ClientRequest.request.on.err (/Users/n-321/Desktop/tinypng/node_modules/tinify/lib/tinify/Client.js:94:28)
+    at ClientRequest.emit (events.js:198:13)
+    at HttpsProxyingAgent.ProxyingAgent.emitError (/Users/n-321/Desktop/tinypng/node_modules/proxying-agent/lib/proxying-agent.js:310:23)
+    at HttpsProxyingAgent.<anonymous> (/Users/n-321/Desktop/tinypng/node_modules/proxying-agent/lib/proxying-agent.js:128:12)
+    at Object.onceWrapper (events.js:286:20)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+message: "Error while connecting: Tunnel creation failed. Socket error: Error: connect ETIMEDOUT 192.168.0.1:8080"
+name: "unhandledRejectionError"
+pid: 46717
+hostname: N-321deMacBook-Pro.local
+
+2020-08-14 12:01:55,656 ERROR 46717 nodejs.unhandledRejectionError: Error while connecting: Tunnel creation failed. Socket error: Error: connect ETIMEDOUT 192.168.0.1:8080
+    at new ConnectionError (/Users/n-321/Desktop/tinypng/node_modules/tinify/lib/tinify/Error.js:50:1)
+    at ClientRequest.request.on.err (/Users/n-321/Desktop/tinypng/node_modules/tinify/lib/tinify/Client.js:94:28)
+    at ClientRequest.emit (events.js:198:13)
+    at HttpsProxyingAgent.ProxyingAgent.emitError (/Users/n-321/Desktop/tinypng/node_modules/proxying-agent/lib/proxying-agent.js:310:23)
+    at HttpsProxyingAgent.<anonymous> (/Users/n-321/Desktop/tinypng/node_modules/proxying-agent/lib/proxying-agent.js:128:12)
+    at Object.onceWrapper (events.js:286:20)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+message: "Error while connecting: Tunnel creation failed. Socket error: Error: connect ETIMEDOUT 192.168.0.1:8080"
+name: "unhandledRejectionError"
+pid: 46717
+hostname: N-321deMacBook-Pro.local
+
+2020-08-14 12:11:22,208 ERROR 54125 [-/127.0.0.1/-/8ms GET /] nodejs.TypeError: tinify.compressionCount is not a function
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:30:42)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54125
+hostname: N-321deMacBook-Pro.local
+
+2020-08-14 12:11:30,925 ERROR 54125 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: tinify.compressionCount is not a function
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:30:42)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54125
+hostname: N-321deMacBook-Pro.local
+
+2020-08-14 12:12:20,734 ERROR 54660 [-/127.0.0.1/-/18ms GET /] nodejs.TypeError: tinify.compressionCount is not a function
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:32:42)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 54660
+hostname: N-321deMacBook-Pro.local
+
+2020-08-14 12:13:08,806 ERROR 55204 [-/127.0.0.1/-/34ms GET /] nodejs.TypeError: tinify.compressionCount is not a function
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:30:42)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+
+pid: 55204
+hostname: N-321deMacBook-Pro.local
+
+2020-08-14 12:13:37,013 ERROR 55474 [-/127.0.0.1/-/1311ms GET /] nodejs.TypeError: tinify.compressionCount is not a function
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:30:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 55474
+hostname: N-321deMacBook-Pro.local
+
+2020-08-14 12:15:35,084 ERROR 56748 [-/127.0.0.1/-/1490ms GET /] nodejs.TypeError: tinify.compressionCount is not a function
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:30:42)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 56748
+hostname: N-321deMacBook-Pro.local
+
+2020-08-14 12:23:55,353 ERROR 61716 [-/127.0.0.1/-/1125ms GET /] nodejs.ReferenceError: path is not defined
+    at files.map (/Users/n-321/Desktop/tinypng/app/controller/home.js:46:21)
+    at Array.map (<anonymous>)
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:44:19)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 61716
+hostname: N-321deMacBook-Pro.local
+
