@@ -151,3 +151,128 @@ hostname: N-321deMacBook-Pro.local
 pid: 61716
 hostname: N-321deMacBook-Pro.local
 
+2020-12-08 22:09:05,535 ERROR 6538 [-/127.0.0.1/-/6ms GET /] nodejs.SyntaxError: Identifier 'imagePath' has already been declared
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:195:33)
+
+pid: 6538
+hostname: N-321deMacBook-Pro.local
+
+2020-12-08 22:10:37,064 ERROR 7539 [-/127.0.0.1/-/7ms GET /] nodejs.ReferenceError: path is not defined
+    at fs.readdirSync.forEach (/Users/n-321/Desktop/tinypng/app/controller/home.js:37:28)
+    at Array.forEach (<anonymous>)
+    at traverse (/Users/n-321/Desktop/tinypng/app/controller/home.js:36:29)
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:45:5)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+
+pid: 7539
+hostname: N-321deMacBook-Pro.local
+
+2020-12-08 22:11:41,797 ERROR 7773 [-/127.0.0.1/-/2ms GET /] nodejs.ENOENTError: ENOENT: no such file or directory, scandir 'image/image'
+    at Object.readdirSync (fs.js:790:3)
+    at traverse (/Users/n-321/Desktop/tinypng/app/controller/home.js:37:12)
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:46:5)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+errno: -2
+syscall: "scandir"
+code: "ENOENT"
+path: "image/image"
+name: "ENOENTError"
+pid: 7773
+hostname: N-321deMacBook-Pro.local
+
+2020-12-08 22:11:45,055 ERROR 7773 [-/127.0.0.1/-/0ms GET /] nodejs.ENOENTError: ENOENT: no such file or directory, scandir 'image/image'
+    at Object.readdirSync (fs.js:790:3)
+    at traverse (/Users/n-321/Desktop/tinypng/app/controller/home.js:37:12)
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:46:5)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+errno: -2
+syscall: "scandir"
+code: "ENOENT"
+path: "image/image"
+name: "ENOENTError"
+pid: 7773
+hostname: N-321deMacBook-Pro.local
+
+2020-12-08 22:11:56,974 ERROR 8469 [-/127.0.0.1/-/6ms GET /] nodejs.ENOENTError: ENOENT: no such file or directory, scandir 'image/image'
+    at Object.readdirSync (fs.js:790:3)
+    at traverse (/Users/n-321/Desktop/tinypng/app/controller/home.js:37:12)
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:46:5)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+errno: -2
+syscall: "scandir"
+code: "ENOENT"
+path: "image/image"
+name: "ENOENTError"
+pid: 8469
+hostname: N-321deMacBook-Pro.local
+
+2020-12-08 22:12:02,258 ERROR 8469 [-/127.0.0.1/-/1ms GET /] nodejs.ENOENTError: ENOENT: no such file or directory, scandir 'image/image'
+    at Object.readdirSync (fs.js:790:3)
+    at traverse (/Users/n-321/Desktop/tinypng/app/controller/home.js:37:12)
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:46:5)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+errno: -2
+syscall: "scandir"
+code: "ENOENT"
+path: "image/image"
+name: "ENOENTError"
+pid: 8469
+hostname: N-321deMacBook-Pro.local
+
+2020-12-08 22:12:08,716 ERROR 8504 [-/127.0.0.1/-/5ms GET /] nodejs.ENOENTError: ENOENT: no such file or directory, scandir 'image/image'
+    at Object.readdirSync (fs.js:790:3)
+    at traverse (/Users/n-321/Desktop/tinypng/app/controller/home.js:37:12)
+    at HomeController.index (/Users/n-321/Desktop/tinypng/app/controller/home.js:46:5)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/n-321/Desktop/tinypng/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/node_modules/koa-compose/index.js:45:18)
+    at /Users/n-321/Desktop/tinypng/node_modules/@eggjs/router/lib/router.js:190:18
+errno: -2
+syscall: "scandir"
+code: "ENOENT"
+path: "image/image"
+name: "ENOENTError"
+pid: 8504
+hostname: N-321deMacBook-Pro.local
+

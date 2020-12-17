@@ -506,3 +506,311 @@ hostname: N-321deMacBook-Pro.local
 2020-08-14 12:25:13,886 INFO 62583 [egg:core] dump config after load, 4ms
 2020-08-14 12:25:13,895 INFO 62583 [egg-watcher:application] watcher start success
 2020-08-14 12:25:13,900 INFO 62583 [egg:core] dump config after ready, 3ms
+2020-12-08 22:06:07,117 INFO 4505 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-08 22:06:07,137 INFO 4505 [egg-multipart] stream mode enable
+2020-12-08 22:06:07,181 INFO 4505 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-08 22:06:07,183 INFO 4505 [egg-security] use csrf middleware
+2020-12-08 22:06:07,183 INFO 4505 [egg-security] use methodnoallow middleware
+2020-12-08 22:06:07,183 INFO 4505 [egg-security] use noopen middleware
+2020-12-08 22:06:07,184 INFO 4505 [egg-security] use nosniff middleware
+2020-12-08 22:06:07,184 INFO 4505 [egg-security] use xssProtection middleware
+2020-12-08 22:06:07,184 INFO 4505 [egg-security] use xframe middleware
+2020-12-08 22:06:07,184 INFO 4505 [egg-security] use dta middleware
+2020-12-08 22:06:07,184 INFO 4505 [egg-security] compose 7 middlewares into one security middleware
+2020-12-08 22:06:07,201 INFO 4505 [egg:core] dump config after load, 4ms
+2020-12-08 22:06:07,212 INFO 4505 [egg-watcher:application] watcher start success
+2020-12-08 22:06:07,217 INFO 4505 [egg:core] dump config after ready, 4ms
+2020-12-08 22:09:03,956 INFO 6538 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-08 22:09:03,977 INFO 6538 [egg-multipart] stream mode enable
+2020-12-08 22:09:04,000 INFO 6538 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-08 22:09:04,001 INFO 6538 [egg-security] use csrf middleware
+2020-12-08 22:09:04,002 INFO 6538 [egg-security] use methodnoallow middleware
+2020-12-08 22:09:04,002 INFO 6538 [egg-security] use noopen middleware
+2020-12-08 22:09:04,002 INFO 6538 [egg-security] use nosniff middleware
+2020-12-08 22:09:04,002 INFO 6538 [egg-security] use xssProtection middleware
+2020-12-08 22:09:04,003 INFO 6538 [egg-security] use xframe middleware
+2020-12-08 22:09:04,003 INFO 6538 [egg-security] use dta middleware
+2020-12-08 22:09:04,003 INFO 6538 [egg-security] compose 7 middlewares into one security middleware
+2020-12-08 22:09:04,017 INFO 6538 [egg:core] dump config after load, 5ms
+2020-12-08 22:09:04,025 INFO 6538 [egg-watcher:application] watcher start success
+2020-12-08 22:09:04,029 INFO 6538 [egg:core] dump config after ready, 3ms
+2020-12-08 22:09:27,730 INFO 6769 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-08 22:09:27,751 INFO 6769 [egg-multipart] stream mode enable
+2020-12-08 22:09:27,774 INFO 6769 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-08 22:09:27,776 INFO 6769 [egg-security] use csrf middleware
+2020-12-08 22:09:27,776 INFO 6769 [egg-security] use methodnoallow middleware
+2020-12-08 22:09:27,777 INFO 6769 [egg-security] use noopen middleware
+2020-12-08 22:09:27,777 INFO 6769 [egg-security] use nosniff middleware
+2020-12-08 22:09:27,777 INFO 6769 [egg-security] use xssProtection middleware
+2020-12-08 22:09:27,777 INFO 6769 [egg-security] use xframe middleware
+2020-12-08 22:09:27,778 INFO 6769 [egg-security] use dta middleware
+2020-12-08 22:09:27,778 INFO 6769 [egg-security] compose 7 middlewares into one security middleware
+2020-12-08 22:09:27,792 INFO 6769 [egg:core] dump config after load, 5ms
+2020-12-08 22:09:27,802 INFO 6769 [egg-watcher:application] watcher start success
+2020-12-08 22:09:27,809 INFO 6769 [egg:core] dump config after ready, 5ms
+2020-12-08 22:10:34,815 INFO 7539 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-08 22:10:34,834 INFO 7539 [egg-multipart] stream mode enable
+2020-12-08 22:10:34,855 INFO 7539 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-08 22:10:34,856 INFO 7539 [egg-security] use csrf middleware
+2020-12-08 22:10:34,857 INFO 7539 [egg-security] use methodnoallow middleware
+2020-12-08 22:10:34,857 INFO 7539 [egg-security] use noopen middleware
+2020-12-08 22:10:34,857 INFO 7539 [egg-security] use nosniff middleware
+2020-12-08 22:10:34,857 INFO 7539 [egg-security] use xssProtection middleware
+2020-12-08 22:10:34,858 INFO 7539 [egg-security] use xframe middleware
+2020-12-08 22:10:34,858 INFO 7539 [egg-security] use dta middleware
+2020-12-08 22:10:34,858 INFO 7539 [egg-security] compose 7 middlewares into one security middleware
+2020-12-08 22:10:34,867 INFO 7539 [egg:core] dump config after load, 3ms
+2020-12-08 22:10:34,875 INFO 7539 [egg-watcher:application] watcher start success
+2020-12-08 22:10:34,879 INFO 7539 [egg:core] dump config after ready, 2ms
+2020-12-08 22:10:59,174 INFO 7773 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-08 22:10:59,195 INFO 7773 [egg-multipart] stream mode enable
+2020-12-08 22:10:59,217 INFO 7773 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-08 22:10:59,219 INFO 7773 [egg-security] use csrf middleware
+2020-12-08 22:10:59,220 INFO 7773 [egg-security] use methodnoallow middleware
+2020-12-08 22:10:59,220 INFO 7773 [egg-security] use noopen middleware
+2020-12-08 22:10:59,220 INFO 7773 [egg-security] use nosniff middleware
+2020-12-08 22:10:59,220 INFO 7773 [egg-security] use xssProtection middleware
+2020-12-08 22:10:59,220 INFO 7773 [egg-security] use xframe middleware
+2020-12-08 22:10:59,221 INFO 7773 [egg-security] use dta middleware
+2020-12-08 22:10:59,221 INFO 7773 [egg-security] compose 7 middlewares into one security middleware
+2020-12-08 22:10:59,234 INFO 7773 [egg:core] dump config after load, 4ms
+2020-12-08 22:10:59,242 INFO 7773 [egg-watcher:application] watcher start success
+2020-12-08 22:10:59,246 INFO 7773 [egg:core] dump config after ready, 3ms
+2020-12-08 22:11:55,798 INFO 8469 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-08 22:11:55,819 INFO 8469 [egg-multipart] stream mode enable
+2020-12-08 22:11:55,840 INFO 8469 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-08 22:11:55,842 INFO 8469 [egg-security] use csrf middleware
+2020-12-08 22:11:55,842 INFO 8469 [egg-security] use methodnoallow middleware
+2020-12-08 22:11:55,842 INFO 8469 [egg-security] use noopen middleware
+2020-12-08 22:11:55,842 INFO 8469 [egg-security] use nosniff middleware
+2020-12-08 22:11:55,843 INFO 8469 [egg-security] use xssProtection middleware
+2020-12-08 22:11:55,843 INFO 8469 [egg-security] use xframe middleware
+2020-12-08 22:11:55,843 INFO 8469 [egg-security] use dta middleware
+2020-12-08 22:11:55,843 INFO 8469 [egg-security] compose 7 middlewares into one security middleware
+2020-12-08 22:11:55,855 INFO 8469 [egg:core] dump config after load, 4ms
+2020-12-08 22:11:55,863 INFO 8469 [egg-watcher:application] watcher start success
+2020-12-08 22:11:55,867 INFO 8469 [egg:core] dump config after ready, 3ms
+2020-12-08 22:12:02,147 INFO 8504 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-08 22:12:02,173 INFO 8504 [egg-multipart] stream mode enable
+2020-12-08 22:12:02,201 INFO 8504 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-08 22:12:02,204 INFO 8504 [egg-security] use csrf middleware
+2020-12-08 22:12:02,204 INFO 8504 [egg-security] use methodnoallow middleware
+2020-12-08 22:12:02,204 INFO 8504 [egg-security] use noopen middleware
+2020-12-08 22:12:02,205 INFO 8504 [egg-security] use nosniff middleware
+2020-12-08 22:12:02,205 INFO 8504 [egg-security] use xssProtection middleware
+2020-12-08 22:12:02,205 INFO 8504 [egg-security] use xframe middleware
+2020-12-08 22:12:02,206 INFO 8504 [egg-security] use dta middleware
+2020-12-08 22:12:02,206 INFO 8504 [egg-security] compose 7 middlewares into one security middleware
+2020-12-08 22:12:02,222 INFO 8504 [egg:core] dump config after load, 7ms
+2020-12-08 22:12:02,233 INFO 8504 [egg-watcher:application] watcher start success
+2020-12-08 22:12:02,237 INFO 8504 [egg:core] dump config after ready, 3ms
+2020-12-08 22:12:18,952 INFO 8738 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-08 22:12:18,976 INFO 8738 [egg-multipart] stream mode enable
+2020-12-08 22:12:19,003 INFO 8738 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-08 22:12:19,005 INFO 8738 [egg-security] use csrf middleware
+2020-12-08 22:12:19,006 INFO 8738 [egg-security] use methodnoallow middleware
+2020-12-08 22:12:19,006 INFO 8738 [egg-security] use noopen middleware
+2020-12-08 22:12:19,006 INFO 8738 [egg-security] use nosniff middleware
+2020-12-08 22:12:19,006 INFO 8738 [egg-security] use xssProtection middleware
+2020-12-08 22:12:19,007 INFO 8738 [egg-security] use xframe middleware
+2020-12-08 22:12:19,007 INFO 8738 [egg-security] use dta middleware
+2020-12-08 22:12:19,007 INFO 8738 [egg-security] compose 7 middlewares into one security middleware
+2020-12-08 22:12:19,021 INFO 8738 [egg:core] dump config after load, 4ms
+2020-12-08 22:12:19,032 INFO 8738 [egg-watcher:application] watcher start success
+2020-12-08 22:12:19,039 INFO 8738 [egg:core] dump config after ready, 6ms
+2020-12-08 22:13:26,341 INFO 9500 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-08 22:13:26,361 INFO 9500 [egg-multipart] stream mode enable
+2020-12-08 22:13:26,381 INFO 9500 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-08 22:13:26,383 INFO 9500 [egg-security] use csrf middleware
+2020-12-08 22:13:26,383 INFO 9500 [egg-security] use methodnoallow middleware
+2020-12-08 22:13:26,384 INFO 9500 [egg-security] use noopen middleware
+2020-12-08 22:13:26,384 INFO 9500 [egg-security] use nosniff middleware
+2020-12-08 22:13:26,384 INFO 9500 [egg-security] use xssProtection middleware
+2020-12-08 22:13:26,384 INFO 9500 [egg-security] use xframe middleware
+2020-12-08 22:13:26,384 INFO 9500 [egg-security] use dta middleware
+2020-12-08 22:13:26,384 INFO 9500 [egg-security] compose 7 middlewares into one security middleware
+2020-12-08 22:13:26,396 INFO 9500 [egg:core] dump config after load, 4ms
+2020-12-08 22:13:26,404 INFO 9500 [egg-watcher:application] watcher start success
+2020-12-08 22:13:26,408 INFO 9500 [egg:core] dump config after ready, 2ms
+2020-12-09 18:22:07,274 INFO 41069 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-09 18:22:07,304 INFO 41069 [egg-multipart] stream mode enable
+2020-12-09 18:22:07,377 INFO 41069 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-09 18:22:07,379 INFO 41069 [egg-security] use csrf middleware
+2020-12-09 18:22:07,380 INFO 41069 [egg-security] use methodnoallow middleware
+2020-12-09 18:22:07,381 INFO 41069 [egg-security] use noopen middleware
+2020-12-09 18:22:07,381 INFO 41069 [egg-security] use nosniff middleware
+2020-12-09 18:22:07,382 INFO 41069 [egg-security] use xssProtection middleware
+2020-12-09 18:22:07,382 INFO 41069 [egg-security] use xframe middleware
+2020-12-09 18:22:07,382 INFO 41069 [egg-security] use dta middleware
+2020-12-09 18:22:07,382 INFO 41069 [egg-security] compose 7 middlewares into one security middleware
+2020-12-09 18:22:07,430 INFO 41069 [egg:core] dump config after load, 11ms
+2020-12-09 18:22:07,445 INFO 41069 [egg-watcher:application] watcher start success
+2020-12-09 18:22:07,450 INFO 41069 [egg:core] dump config after ready, 3ms
+2020-12-11 12:34:55,521 INFO 9218 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-11 12:34:55,546 INFO 9218 [egg-multipart] stream mode enable
+2020-12-11 12:34:55,601 INFO 9218 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-11 12:34:55,603 INFO 9218 [egg-security] use csrf middleware
+2020-12-11 12:34:55,604 INFO 9218 [egg-security] use methodnoallow middleware
+2020-12-11 12:34:55,604 INFO 9218 [egg-security] use noopen middleware
+2020-12-11 12:34:55,604 INFO 9218 [egg-security] use nosniff middleware
+2020-12-11 12:34:55,605 INFO 9218 [egg-security] use xssProtection middleware
+2020-12-11 12:34:55,605 INFO 9218 [egg-security] use xframe middleware
+2020-12-11 12:34:55,605 INFO 9218 [egg-security] use dta middleware
+2020-12-11 12:34:55,605 INFO 9218 [egg-security] compose 7 middlewares into one security middleware
+2020-12-11 12:34:55,628 INFO 9218 [egg:core] dump config after load, 6ms
+2020-12-11 12:34:55,642 INFO 9218 [egg-watcher:application] watcher start success
+2020-12-11 12:34:55,648 INFO 9218 [egg:core] dump config after ready, 4ms
+2020-12-11 12:35:46,499 INFO 9794 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-11 12:35:46,524 INFO 9794 [egg-multipart] stream mode enable
+2020-12-11 12:35:46,551 INFO 9794 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-11 12:35:46,553 INFO 9794 [egg-security] use csrf middleware
+2020-12-11 12:35:46,554 INFO 9794 [egg-security] use methodnoallow middleware
+2020-12-11 12:35:46,554 INFO 9794 [egg-security] use noopen middleware
+2020-12-11 12:35:46,554 INFO 9794 [egg-security] use nosniff middleware
+2020-12-11 12:35:46,554 INFO 9794 [egg-security] use xssProtection middleware
+2020-12-11 12:35:46,555 INFO 9794 [egg-security] use xframe middleware
+2020-12-11 12:35:46,555 INFO 9794 [egg-security] use dta middleware
+2020-12-11 12:35:46,555 INFO 9794 [egg-security] compose 7 middlewares into one security middleware
+2020-12-11 12:35:46,569 INFO 9794 [egg:core] dump config after load, 5ms
+2020-12-11 12:35:46,580 INFO 9794 [egg-watcher:application] watcher start success
+2020-12-11 12:35:46,587 INFO 9794 [egg:core] dump config after ready, 5ms
+2020-12-11 12:36:50,354 INFO 10501 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-11 12:36:50,380 INFO 10501 [egg-multipart] stream mode enable
+2020-12-11 12:36:50,418 INFO 10501 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-11 12:36:50,421 INFO 10501 [egg-security] use csrf middleware
+2020-12-11 12:36:50,422 INFO 10501 [egg-security] use methodnoallow middleware
+2020-12-11 12:36:50,422 INFO 10501 [egg-security] use noopen middleware
+2020-12-11 12:36:50,422 INFO 10501 [egg-security] use nosniff middleware
+2020-12-11 12:36:50,423 INFO 10501 [egg-security] use xssProtection middleware
+2020-12-11 12:36:50,423 INFO 10501 [egg-security] use xframe middleware
+2020-12-11 12:36:50,423 INFO 10501 [egg-security] use dta middleware
+2020-12-11 12:36:50,423 INFO 10501 [egg-security] compose 7 middlewares into one security middleware
+2020-12-11 12:36:50,443 INFO 10501 [egg:core] dump config after load, 5ms
+2020-12-11 12:36:50,454 INFO 10501 [egg-watcher:application] watcher start success
+2020-12-11 12:36:50,459 INFO 10501 [egg:core] dump config after ready, 3ms
+2020-12-11 12:38:04,429 INFO 11323 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-11 12:38:04,455 INFO 11323 [egg-multipart] stream mode enable
+2020-12-11 12:38:04,483 INFO 11323 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-11 12:38:04,485 INFO 11323 [egg-security] use csrf middleware
+2020-12-11 12:38:04,486 INFO 11323 [egg-security] use methodnoallow middleware
+2020-12-11 12:38:04,486 INFO 11323 [egg-security] use noopen middleware
+2020-12-11 12:38:04,487 INFO 11323 [egg-security] use nosniff middleware
+2020-12-11 12:38:04,487 INFO 11323 [egg-security] use xssProtection middleware
+2020-12-11 12:38:04,487 INFO 11323 [egg-security] use xframe middleware
+2020-12-11 12:38:04,487 INFO 11323 [egg-security] use dta middleware
+2020-12-11 12:38:04,487 INFO 11323 [egg-security] compose 7 middlewares into one security middleware
+2020-12-11 12:38:04,503 INFO 11323 [egg:core] dump config after load, 5ms
+2020-12-11 12:38:04,513 INFO 11323 [egg-watcher:application] watcher start success
+2020-12-11 12:38:04,521 INFO 11323 [egg:core] dump config after ready, 6ms
+2020-12-11 12:40:18,854 INFO 12807 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-11 12:40:18,880 INFO 12807 [egg-multipart] stream mode enable
+2020-12-11 12:40:18,909 INFO 12807 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-11 12:40:18,912 INFO 12807 [egg-security] use csrf middleware
+2020-12-11 12:40:18,912 INFO 12807 [egg-security] use methodnoallow middleware
+2020-12-11 12:40:18,913 INFO 12807 [egg-security] use noopen middleware
+2020-12-11 12:40:18,913 INFO 12807 [egg-security] use nosniff middleware
+2020-12-11 12:40:18,913 INFO 12807 [egg-security] use xssProtection middleware
+2020-12-11 12:40:18,913 INFO 12807 [egg-security] use xframe middleware
+2020-12-11 12:40:18,914 INFO 12807 [egg-security] use dta middleware
+2020-12-11 12:40:18,914 INFO 12807 [egg-security] compose 7 middlewares into one security middleware
+2020-12-11 12:40:18,932 INFO 12807 [egg:core] dump config after load, 7ms
+2020-12-11 12:40:18,944 INFO 12807 [egg-watcher:application] watcher start success
+2020-12-11 12:40:18,950 INFO 12807 [egg:core] dump config after ready, 5ms
+2020-12-11 12:41:36,258 INFO 13673 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-11 12:41:36,283 INFO 13673 [egg-multipart] stream mode enable
+2020-12-11 12:41:36,310 INFO 13673 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-11 12:41:36,313 INFO 13673 [egg-security] use csrf middleware
+2020-12-11 12:41:36,313 INFO 13673 [egg-security] use methodnoallow middleware
+2020-12-11 12:41:36,313 INFO 13673 [egg-security] use noopen middleware
+2020-12-11 12:41:36,314 INFO 13673 [egg-security] use nosniff middleware
+2020-12-11 12:41:36,314 INFO 13673 [egg-security] use xssProtection middleware
+2020-12-11 12:41:36,314 INFO 13673 [egg-security] use xframe middleware
+2020-12-11 12:41:36,314 INFO 13673 [egg-security] use dta middleware
+2020-12-11 12:41:36,314 INFO 13673 [egg-security] compose 7 middlewares into one security middleware
+2020-12-11 12:41:36,332 INFO 13673 [egg:core] dump config after load, 7ms
+2020-12-11 12:41:36,345 INFO 13673 [egg-watcher:application] watcher start success
+2020-12-11 12:41:36,350 INFO 13673 [egg:core] dump config after ready, 3ms
+2020-12-11 12:42:16,319 INFO 14182 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-11 12:42:16,342 INFO 14182 [egg-multipart] stream mode enable
+2020-12-11 12:42:16,365 INFO 14182 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-11 12:42:16,368 INFO 14182 [egg-security] use csrf middleware
+2020-12-11 12:42:16,369 INFO 14182 [egg-security] use methodnoallow middleware
+2020-12-11 12:42:16,369 INFO 14182 [egg-security] use noopen middleware
+2020-12-11 12:42:16,369 INFO 14182 [egg-security] use nosniff middleware
+2020-12-11 12:42:16,369 INFO 14182 [egg-security] use xssProtection middleware
+2020-12-11 12:42:16,370 INFO 14182 [egg-security] use xframe middleware
+2020-12-11 12:42:16,370 INFO 14182 [egg-security] use dta middleware
+2020-12-11 12:42:16,370 INFO 14182 [egg-security] compose 7 middlewares into one security middleware
+2020-12-11 12:42:16,385 INFO 14182 [egg:core] dump config after load, 5ms
+2020-12-11 12:42:16,397 INFO 14182 [egg-watcher:application] watcher start success
+2020-12-11 12:42:16,403 INFO 14182 [egg:core] dump config after ready, 5ms
+2020-12-17 17:41:05,529 INFO 51147 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-17 17:41:05,555 INFO 51147 [egg-multipart] stream mode enable
+2020-12-17 17:41:05,623 INFO 51147 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-17 17:41:05,625 INFO 51147 [egg-security] use csrf middleware
+2020-12-17 17:41:05,626 INFO 51147 [egg-security] use methodnoallow middleware
+2020-12-17 17:41:05,626 INFO 51147 [egg-security] use noopen middleware
+2020-12-17 17:41:05,627 INFO 51147 [egg-security] use nosniff middleware
+2020-12-17 17:41:05,627 INFO 51147 [egg-security] use xssProtection middleware
+2020-12-17 17:41:05,627 INFO 51147 [egg-security] use xframe middleware
+2020-12-17 17:41:05,628 INFO 51147 [egg-security] use dta middleware
+2020-12-17 17:41:05,628 INFO 51147 [egg-security] compose 7 middlewares into one security middleware
+2020-12-17 17:41:05,653 INFO 51147 [egg:core] dump config after load, 8ms
+2020-12-17 17:41:05,667 INFO 51147 [egg-watcher:application] watcher start success
+2020-12-17 17:41:05,673 INFO 51147 [egg:core] dump config after ready, 4ms
+2020-12-17 17:42:54,692 INFO 52283 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-17 17:42:54,725 INFO 52283 [egg-multipart] stream mode enable
+2020-12-17 17:42:54,777 INFO 52283 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-17 17:42:54,780 INFO 52283 [egg-security] use csrf middleware
+2020-12-17 17:42:54,780 INFO 52283 [egg-security] use methodnoallow middleware
+2020-12-17 17:42:54,781 INFO 52283 [egg-security] use noopen middleware
+2020-12-17 17:42:54,781 INFO 52283 [egg-security] use nosniff middleware
+2020-12-17 17:42:54,782 INFO 52283 [egg-security] use xssProtection middleware
+2020-12-17 17:42:54,782 INFO 52283 [egg-security] use xframe middleware
+2020-12-17 17:42:54,783 INFO 52283 [egg-security] use dta middleware
+2020-12-17 17:42:54,783 INFO 52283 [egg-security] compose 7 middlewares into one security middleware
+2020-12-17 17:42:54,810 INFO 52283 [egg:core] dump config after load, 5ms
+2020-12-17 17:42:54,821 INFO 52283 [egg-watcher:application] watcher start success
+2020-12-17 17:42:54,826 INFO 52283 [egg:core] dump config after ready, 3ms
+2020-12-17 17:47:52,804 INFO 55541 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-17 17:47:52,835 INFO 55541 [egg-multipart] stream mode enable
+2020-12-17 17:47:52,884 INFO 55541 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-17 17:47:52,887 INFO 55541 [egg-security] use csrf middleware
+2020-12-17 17:47:52,888 INFO 55541 [egg-security] use methodnoallow middleware
+2020-12-17 17:47:52,888 INFO 55541 [egg-security] use noopen middleware
+2020-12-17 17:47:52,889 INFO 55541 [egg-security] use nosniff middleware
+2020-12-17 17:47:52,889 INFO 55541 [egg-security] use xssProtection middleware
+2020-12-17 17:47:52,890 INFO 55541 [egg-security] use xframe middleware
+2020-12-17 17:47:52,890 INFO 55541 [egg-security] use dta middleware
+2020-12-17 17:47:52,890 INFO 55541 [egg-security] compose 7 middlewares into one security middleware
+2020-12-17 17:47:52,912 INFO 55541 [egg:core] dump config after load, 5ms
+2020-12-17 17:47:52,923 INFO 55541 [egg-watcher:application] watcher start success
+2020-12-17 17:47:52,928 INFO 55541 [egg:core] dump config after ready, 3ms
+2020-12-17 17:48:02,941 INFO 55583 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-17 17:48:02,965 INFO 55583 [egg-multipart] stream mode enable
+2020-12-17 17:48:02,992 INFO 55583 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-17 17:48:02,994 INFO 55583 [egg-security] use csrf middleware
+2020-12-17 17:48:02,995 INFO 55583 [egg-security] use methodnoallow middleware
+2020-12-17 17:48:02,995 INFO 55583 [egg-security] use noopen middleware
+2020-12-17 17:48:02,996 INFO 55583 [egg-security] use nosniff middleware
+2020-12-17 17:48:02,996 INFO 55583 [egg-security] use xssProtection middleware
+2020-12-17 17:48:02,996 INFO 55583 [egg-security] use xframe middleware
+2020-12-17 17:48:02,996 INFO 55583 [egg-security] use dta middleware
+2020-12-17 17:48:02,996 INFO 55583 [egg-security] compose 7 middlewares into one security middleware
+2020-12-17 17:48:03,011 INFO 55583 [egg:core] dump config after load, 5ms
+2020-12-17 17:48:03,021 INFO 55583 [egg-watcher:application] watcher start success
+2020-12-17 17:48:03,030 INFO 55583 [egg:core] dump config after ready, 7ms
+2020-12-17 18:19:48,687 INFO 75795 [egg:logger] init all loggers with options: {"dir":"/Users/n-321/Desktop/tinypng/logs/init","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"init-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-12-17 18:19:48,715 INFO 75795 [egg-multipart] stream mode enable
+2020-12-17 18:19:48,759 INFO 75795 [egg-static] starting static serve /public/ -> /Users/n-321/Desktop/tinypng/app/public
+2020-12-17 18:19:48,761 INFO 75795 [egg-security] use csrf middleware
+2020-12-17 18:19:48,762 INFO 75795 [egg-security] use methodnoallow middleware
+2020-12-17 18:19:48,762 INFO 75795 [egg-security] use noopen middleware
+2020-12-17 18:19:48,762 INFO 75795 [egg-security] use nosniff middleware
+2020-12-17 18:19:48,763 INFO 75795 [egg-security] use xssProtection middleware
+2020-12-17 18:19:48,763 INFO 75795 [egg-security] use xframe middleware
+2020-12-17 18:19:48,763 INFO 75795 [egg-security] use dta middleware
+2020-12-17 18:19:48,763 INFO 75795 [egg-security] compose 7 middlewares into one security middleware
+2020-12-17 18:19:48,786 INFO 75795 [egg:core] dump config after load, 5ms
+2020-12-17 18:19:48,800 INFO 75795 [egg-watcher:application] watcher start success
+2020-12-17 18:19:48,806 INFO 75795 [egg:core] dump config after ready, 3ms
